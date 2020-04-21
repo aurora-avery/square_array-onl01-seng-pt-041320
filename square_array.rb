@@ -4,7 +4,7 @@ def square_array(array)
   squared
 end
 
-# Advanced solution with .collect
+# Advanced level interator .collect
 # def square_array(array)
 #   array.collect {|element| element ** 2}
 # end 
